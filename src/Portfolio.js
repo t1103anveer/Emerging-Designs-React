@@ -26,8 +26,8 @@ export default function Portfolio() {
                                 <div className="thumbnail-img portfolio-one"></div>
                             </div>
                             <div className="portfolio-title">
-                                <h5>Coming Soon</h5>
-                                <span>Coming Soon</span>
+                                <h5>Polestar1</h5>
+                                <span>Concept Website</span>
                             </div>
                         </div>
 

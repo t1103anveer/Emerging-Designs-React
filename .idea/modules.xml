@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Emerging-Designs-React.iml" filepath="$PROJECT_DIR$/.idea/Emerging-Designs-React.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/bob.iml" filepath="$PROJECT_DIR$/.idea/bob.iml" />
     </modules>
   </component>
