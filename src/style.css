@@ -38,7 +38,7 @@ video {
       left: 0;
       width: 100%;
       height: 100vh;
-      background: #1b1b1b;
+      background: #000000;
       opacity: 0.8;
 }
 
@@ -77,7 +77,7 @@ video {
 }
 
 .nav.scrolled {
-      background-color: #161616 !important;
+      background-color: #000000 !important;
       transition: background-color 500ms linear;
 }
 
@@ -91,7 +91,7 @@ video {
 .logo{
       background: url("logo.png") no-repeat;
       background-size: contain;
-      height: 300px;
+      height: 30px;
       width: 200px;
       margin-top: 25px;
 }
@@ -103,18 +103,18 @@ video {
 }
 
 .nav #menu li {
+      font-family: 'Nunito', sans-serif;
+      text-transform: uppercase;
       padding-left: 40px;
       display: inline-block;
-      font-weight: lighter !important;
-      text-transform: uppercase;
-      font-size: 14px;
       line-height: 80px;
+      font-size: 16px;
+      letter-spacing: 1px;
       position: relative;
       transition: all 500ms ease-out;
 }
 
 .nav #menu li a {
-      font-family: 'Nunito', sans-serif;
       color: rgb(156, 156, 156);
       transition: all 500ms ease-out;
 }
@@ -260,8 +260,8 @@ video {
 
 section {
       padding: 140px 0;
-      background: #000000;
-      border-bottom: 5px solid white;
+      background: #030200;
+      border-bottom: 5px solid grey;
 }
 
 .section-index {
