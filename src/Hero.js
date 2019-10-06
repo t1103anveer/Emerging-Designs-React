@@ -1,5 +1,5 @@
 import React from 'react';
-import videourl from "./videobg.mp4"
+import videourl from "./DesignMovie.mp4"
 
 export default function Hero() {
 
@@ -15,7 +15,7 @@ export default function Hero() {
             </div>
 
             <div className="header">
-                <h1>Web Design. <br/>Web Development. <br/>Web Management.</h1>
+                <h1></h1>
             </div>
         </div>
 

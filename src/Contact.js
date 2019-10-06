@@ -3,6 +3,10 @@ import React from 'react';
 
 export default class Contact extends React.Component{
 
+    submitClick(){
+        alert('Message Sent!')
+    }
+
     sendMail(){
 
         const {
@@ -130,9 +134,8 @@ export default class Contact extends React.Component{
                                     </ul>
 
                                     <button type="button" name="contact-submit" id="contact-submit"
-                                            className="send wow fadeInUp" data-wow-delay="0.9s" onClick={this.sendMail}>Send Message
+                                            className="send wow fadeInUp" data-wow-delay="0.9s" onClick={this.sendMail && this.submitClick}>Send Message
                                     </button>
-
                                 </form>
                             </div>
                         </div>
