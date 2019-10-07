@@ -36,6 +36,8 @@ export default class Contact extends React.Component{
 
         });
 
+        this.submitClick();
+
     }
 
     constructor(props) {
@@ -134,7 +136,7 @@ export default class Contact extends React.Component{
                                     </ul>
 
                                     <button type="button" name="contact-submit" id="contact-submit"
-                                            className="send wow fadeInUp" data-wow-delay="0.9s" onClick={this.sendMail && this.submitClick}>Send Message
+                                            className="send wow fadeInUp" data-wow-delay="0.9s" onClick={this.sendMail}>Send Message
                                     </button>
                                 </form>
                             </div>
