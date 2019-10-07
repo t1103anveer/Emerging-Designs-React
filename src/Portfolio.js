@@ -26,8 +26,8 @@ export default function Portfolio() {
                                 <div className="thumbnail-img portfolio-one"></div>
                             </div>
                             <div className="portfolio-title">
-                                <h5>Polestar1</h5>
-                                <span>Concept Website</span>
+                                <h5>Polestar 1 Concept</h5>
+                                <span>Coming Soon</span>
                             </div>
                         </div>
 
@@ -36,7 +36,7 @@ export default function Portfolio() {
                                 <div className="thumbnail-img portfolio-two"></div>
                             </div>
                             <div className="portfolio-title">
-                                <h5>Coming Soon</h5>
+                                <h5>Porsche Taycan Concept</h5>
                                 <span>Coming Soon</span>
                             </div>
                         </div>
