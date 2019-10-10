@@ -22,12 +22,14 @@ export default function Portfolio() {
                         <div className="col-md-4"></div>
 
                         <div className="col-md-4 wow fadeInUp" data-wow-delay="0.5s">
-                            <div className="portfolio-object">
-                                <div className="thumbnail-img portfolio-one"></div>
-                            </div>
+                            <a href="https://t1103anveer.github.io/Polestar_Concept_Website/" target="_blank">
+                                <div className="portfolio-object">
+                                    <div className="thumbnail-img portfolio-one"></div>
+                                </div>
+                            </a>
                             <div className="portfolio-title">
-                                <h5>Polestar1 Concept</h5>
-                                <span>Coming Soon</span>
+                                <h5>Polestar1 Concept Website</h5>
+                                <a href="https://t1103anveer.github.io/Polestar_Concept_Website/" target="_blank"><span>Click to view</span></a>
                             </div>
                         </div>
 
