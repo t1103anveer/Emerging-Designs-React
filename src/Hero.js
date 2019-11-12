@@ -9,7 +9,7 @@ export default function Hero() {
         <div>
             <a id="home"></a>
             <div className="video-container">
-                <video playsInline autoPlay muted loop id="bgvid">
+                <video playsInline autoPlay muted loop id="bgvid" poster="phone-background.png">
                     <source src={videourl} type="video/mp4"/>
                 </video>
             </div>
