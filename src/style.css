@@ -78,8 +78,8 @@ body::-webkit-scrollbar {
             width: 75%;
       }
 
-      video{
-            display: none;
+      .title{
+            font-size: 1vh;
       }
 
       .header h1 {
