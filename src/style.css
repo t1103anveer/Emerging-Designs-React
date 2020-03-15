@@ -29,34 +29,31 @@ body::-webkit-scrollbar {
       left: 25vw;
       top: 35vh;
       justify-content: space-between;
+      font-size: 8vh;
 }
 
 .title-part-one{
       position: relative;
       color: white;
       padding: 5px;
-      font-size: 8vh;
 }
 
 .title-part-two{
       position: relative;
       color: white;
       padding: 5px;
-      font-size: 8vh;
 }
 
 .title-part-three{
       position: relative;
       color: white;
       padding: 5px;
-      font-size: 8vh;
 }
 
 .title-part-four{
       position: relative;
       color: white;
       padding: 5px;
-      font-size: 8vh;
 }
 
 .header {
@@ -79,7 +76,7 @@ body::-webkit-scrollbar {
       }
 
       .title{
-            font-size: 0.2vw;
+            font-size: 5vw;
       }
 
       .header h1 {
