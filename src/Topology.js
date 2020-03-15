@@ -12,7 +12,6 @@ export default class Animation extends React.Component {
             color: 0xfff,
             backgroundColor: 0x000,
             mouseControls: true,
-            touchControls: true,
             minHeight: 1000.00,
             minWidth: 200.00,
             scale: 1.00,
@@ -26,16 +25,16 @@ export default class Animation extends React.Component {
         return <div ref={this.vantaRef}>
 
             <div className="title">
-                <div className="title-part-one">
+                <div className="title-part-one wow fadeInRight" data-wow-delay="1s">
                 Bringing
                 </div>
-                <div className="title-part-two">
+                <div className="title-part-two wow fadeInDown" data-wow-delay="1.5s">
                     Design
                 </div>
-                <div className="title-part-three">
+                <div className="title-part-three wow fadeInLeft" data-wow-delay="2s">
                     to
                 </div>
-                <div className="title-part-four">
+                <div className="title-part-four wow fadeInUp" data-wow-delay="2.5s">
                     Life
                 </div>
                 </div>
