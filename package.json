@@ -5,10 +5,12 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
+    "p5": "^1.0.0",
     "react": "^16.9.0",
     "react-bootstrap": "^1.0.0-beta.12",
     "react-dom": "^16.9.0",
     "react-scripts": "3.1.1",
+    "vanta": "^0.5.10",
     "wow.js": "^1.2.2"
   },
   "scripts": {
