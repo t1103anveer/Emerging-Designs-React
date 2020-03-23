@@ -12,7 +12,7 @@ export default class Animation extends React.Component {
             color: 0xfff,
             backgroundColor: 0x000,
             mouseControls: true,
-            minHeight: 1000.00,
+            minHeight: 1200.00,
             minWidth: 200.00,
             scale: 1.00,
             scaleMobile: 1.00

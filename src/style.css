@@ -35,25 +35,25 @@ body::-webkit-scrollbar {
 .title-part-one{
       position: relative;
       color: white;
-      padding: 5px;
+      padding-right: 25px;
 }
 
 .title-part-two{
       position: relative;
       color: white;
-      padding: 5px;
+      padding-right: 25px;
 }
 
 .title-part-three{
       position: relative;
       color: white;
-      padding: 5px;
+      padding-right: 25px;
 }
 
 .title-part-four{
       position: relative;
       color: white;
-      padding: 5px;
+      padding-right: 25px;
 }
 
 .header {
