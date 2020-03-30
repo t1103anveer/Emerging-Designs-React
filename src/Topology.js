@@ -24,20 +24,20 @@ export default class Animation extends React.Component {
     render() {
         return <div ref={this.vantaRef}>
 
-            <div className="title">
-                <div className="title-part-one wow fadeInRight" data-wow-delay="1s">
+        <div className="title">
+            <div className="title-part-one wow fadeInRight" data-wow-delay="1s">
                 Bringing
-                </div>
-                <div className="title-part-two wow fadeInDown" data-wow-delay="1.5s">
+            </div>
+            <div className="title-part-two wow fadeInDown" data-wow-delay="1.5s">
                     Design
-                </div>
-                <div className="title-part-three wow fadeInLeft" data-wow-delay="2s">
+            </div>
+            <div className="title-part-three wow fadeInLeft" data-wow-delay="2s">
                     to
-                </div>
-                <div className="title-part-four wow fadeInUp" data-wow-delay="2.5s">
+            </div>
+            <div className="title-part-four wow fadeInUp" data-wow-delay="2.5s">
                     Life
-                </div>
-                </div>
+            </div>
+        </div>
         </div>
     }
 }
